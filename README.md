@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **many frontend frameworks**
 
-- 👯 I’m looking to contribute to **several open-source projects.**
+- 👯 I’m looking forward to contribute to **several open-source projects.**
 
 - 📫 How to reach me **clintonkvidam@gmail.com**
 
