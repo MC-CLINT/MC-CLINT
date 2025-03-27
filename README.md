@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clinton Kwaku Vidam</h1>
-<h3 align="center">A tech enthusiast, A passionate frontend developer [Web], Graphic Designer, Mobile App Developer from Ghana</h3>
+<h3 align="center">A tech enthusiast, A passionate frontend developer [Web], Computer Support Technician, Mobile App Developer from Ghana</h3>
 
 - 🔭 I’m currently working on **several projects and would be pushing everything to Github.**
 
